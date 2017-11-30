@@ -4,6 +4,7 @@ Keep track of my task progress on other OSS repositories and add extra info just
 * [richardimaoka.github.io](https://richardimaoka.github.io)
 * [akka-learn](https://github.com/richardimaoka/akka-learn)
 * [akka-lessons](https://github.com/richardimaoka/akka-lessons)
+* [akka-playground](https://github.com/richardimaoka/akka-playground)
 
 ## Akka
 
