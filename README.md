@@ -44,3 +44,8 @@ Keep track of my task progress on other OSS repositories and add extra info just
 ## Rust
 
 * [rust-lang/rust](https://github.com/rust-lang/rust)
+
+
+https://richardimaoka.github.io/ds/DS201/index.html
+https://richardimaoka.github.io/ds/DS210/index.html
+https://richardimaoka.github.io/ds/DS220/index.html
