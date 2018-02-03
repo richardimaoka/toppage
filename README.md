@@ -16,6 +16,7 @@ Keep track of my task progress on other OSS repositories and add extra info just
 ## ScalaMatsuri
 
 * https://github.com/scalajp/2018.staff
+* https://github.com/scalajp/2018.scalamatsuri.org
 
 ## Builderscon
 
