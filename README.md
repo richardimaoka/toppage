@@ -7,6 +7,7 @@ Keep track of my task progress on other OSS repositories and add extra info just
 * [akka-playground](https://github.com/richardimaoka/akka-playground)
 * [resources](https://github.com/richardimaoka/resources)
 * [blog](https://github.com/richardimaoka/blog)
+* [pinvite](https://github.com/pinvite/pinvite)
 
 ## Akka
 
